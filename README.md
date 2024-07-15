@@ -9,6 +9,7 @@ Power Query
 Dax Query
 
 Cleaning and Analyzing using Power Query:
+
 Open Excel and connect to HR data
 Use Power Query to clean and transform the data
 Create a copy template for one sheet in Power Query transformations and apply the same transformations to all sheets
