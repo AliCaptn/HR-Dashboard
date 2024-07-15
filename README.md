@@ -22,6 +22,7 @@ With DAX Query, we can effectively manipulate and analyze the data to provide in
 Create Measures and columns Using DAX functions such as count, sum function for exploring some clean data for improve dashboard KPI in PowerBI.
 
 Power BI Dashboard Visualization:
+
 Design the dashboard layout
 Create a measure table to aggregate and display the data using Dax functions
 Use Visulizations for charts and filters for filter dashboard
