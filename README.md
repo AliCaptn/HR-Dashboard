@@ -19,6 +19,7 @@ Encapsulate all steps into a function to be reused for future sheets and data
 Load and Apply the cleaned data into Power BI
 
 Exploring and Manipulate Some Data Using DAX Query:
+
 With DAX Query, we can effectively manipulate and analyze the data to provide insights for visulization and identify areas for improvement for HR.
 Create Measures and columns Using DAX functions such as count, sum function for exploring some clean data for improve dashboard KPI in PowerBI.
 
